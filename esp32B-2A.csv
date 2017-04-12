@@ -1,0 +1,15 @@
+"Part";"Value";"Device";"Package";"Description";"";
+"C1";"0.1u";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";
+"C2";"0.1u";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";
+"C3";"10u";"C-EUC1206";"C1206";"CAPACITOR, European symbol";"";
+"C4";"100u";"C-EUC1206";"C1206";"CAPACITOR, European symbol";"";
+"IC1";"NJM2391";"NJM2845DL1";"NJM2845DL1-PKG";"";"";
+"JP1";"";"PINHD-1X13";"1X13";"PIN HEADER";"";
+"JP2";"";"PINHD-1X13";"1X13";"PIN HEADER";"";
+"JP3";"";"PINHD-1X8";"1X08";"PIN HEADER";"";
+"R1";"10K";"R-EU_R0603";"R0603";"RESISTOR, European symbol";"";
+"R2";"10K";"R-EU_R0603";"R0603";"RESISTOR, European symbol";"";
+"S1";"";"BTN2-EX";"B3F-10XX";"";"";
+"S2";"";"BTN2-EX";"B3F-10XX";"";"";
+"SOC";"ESP-WROOM-32";"ESP-WROOM-32";"ESP-WROOM-32";"";"";
+"USB";"";"USB-CUST-1";"USB-CUST-1-PKG";"";"";
